@@ -1,0 +1,35 @@
+body{
+	padding:0;
+	margin:0;
+	padding:0 10% 0 15%;
+	width:60%;
+}
+#title{
+	text-align:center;
+	font-family:Colonna MT;
+	padding-left:10%;
+}
+#image{
+	width:70%;
+	height:500px;
+	margin-top:-1%;
+	padding-left:20%;
+	border-radius: 50px 30px;
+}
+#img-caption{
+	padding-left:45%;
+}
+#tribute-info{
+	font-family:Times New Roman;
+	text-align:justify;
+	font-size:1.2em;
+	padding-left: 5%;
+}
+#tribute-link{
+	padding-left:80%;
+	padding-bottom:5%;
+}
+#more-info{
+	font-size:1.2em;
+	padding-left: 20%;
+}
